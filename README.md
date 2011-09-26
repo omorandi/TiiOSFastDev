@@ -55,7 +55,7 @@ The script files are Copyright 2011 by Olivier Morandi and are distributed throu
 The files under the `TiFiles` directory are Copyright by Appcelerator (except `ServerAddr.h` and `ServerPort.h`, which are Copyright 2011 by Olivier Morandi) and are subjected to the original Titanium Mobile Apache 2.0 Licence
 
 ## How this works
-I'll soon post the details of what's under the hood of this hack  on my [Titanium Ninja](http://titaniumninja.com) blog.
+For a more detailed discussion on how this hack works just check out [this post](http://titaniumninja.com/post/10559549700/fastdev-for-ios-how-it-works)
 
 ## Contacts
 For any enquiry, just drop me an [email](mailto:olivier.morandi@gmail.com).
